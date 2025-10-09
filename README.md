@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, aku keren 👋
 
 <!--
 **Kerenmisael07-hub/Kerenmisael07-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
