@@ -43,7 +43,7 @@ Whether it’s a simple **web page**, a **mini game**, or a **PHP app**, each on
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/Kerenmisael07"><img src="https://img.shields.io/badge/GitHub-Kerenmisael07-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Kerenmisael07-hub"><img src="https://img.shields.io/badge/GitHub-Kerenmisael07-181717?style=for-the-badge&logo=github" /></a>
   <a href="mailto:kerenmisael45@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" /></a>
 </p>
 
