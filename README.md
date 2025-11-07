@@ -7,11 +7,7 @@
 ---
 
 ### 💫 About Me  
-- 🔭 I’m currently learning **Web Development, PHP, and Java**  
-- 🌱 I love building **games**, especially with **Ursina Engine** & web tech  
-- 🎯 My goal: create cool, useful, and fun projects that help people  
-- 🎮 I’m also working on a horror game project and a typing zombie web game  
-- ⚡ Fun fact: My favorite color is **blue** 💙  
+I'm a student 
 
 ---
 
@@ -33,14 +29,6 @@
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kerenmisael07&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kerenmisael07&theme=tokyonight" />
-</p>
-
----
-
-### 🌐 Connect with Me  
-<p align="left">
-  <a href="https://github.com/Kerenmisael07"><img src="https://img.shields.io/badge/GitHub-Kerenmisael07-181717?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:kerenmisael@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
