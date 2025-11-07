@@ -1,60 +1,54 @@
-<!-- Header -->
-<h1 align="center">✨ Welcome to My Hub — I'm Keren Misael ✨</h1>
-<h3 align="center">Developer • Gamer • Dreamer 🚀</h3>
+<h1 align="center">👋 Hi, I'm Keren Misael</h1>
+<h3 align="center">Informatics Student | Still Learning • Still Growing 🌱</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Keren+👋;Full-stack+developer+in+progress+💻;Game+creator+%26+tech+enthusiast+🎮;Always+learning+something+new!+🌱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Informatics+Student+from+Indonesia;Learning+HTML%2C+CSS%2C+JS%2C+PHP%2C+Laravel%2C+Java%2C+Python;Not+an+expert...+but+always+curious+✨" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌟 About Me  
-- 🧑‍💻 Passionate about **coding, games, and creative projects**  
-- 💡 Currently learning **PHP, Java, and SQL**  
-- 🎮 Love building **game projects** (Typing Zombies, Horror Game, etc.)  
-- 🧠 Enjoys solving logic problems (especially digital circuits & SQL challenges)  
-- 💙 My favorite color is **blue**, it gives peace & focus  
-- 🌍 From **West Kalimantan, Indonesia**
+### 💫 About Me
+- 🎓 I’m an **Informatics student** who loves exploring the world of programming.  
+- 🌱 Currently learning **HTML, CSS, JavaScript, PHP, Laravel, Java, and Python**.  
+- 💬 I’m **not a master of any**, but I’m always trying to get better every day.  
+- 🧩 Interested in **web development, game creation, and data visualization**.  
+- 💙 My favorite color is **blue** because it keeps me calm while coding.  
+- 🎮 Outside of coding, I love games and experimenting with game logic.
 
 ---
 
-### 🧰 Tech Stack
+### 🧠 Tech Stack (What I’m Learning)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,java,html,css,js,mysql,git,github,vscode,laravel,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,java,python,mysql,git,github,vscode" />
 </p>
 
 ---
 
-### 🚀 My Cool Projects  
-| 💡 Project | 🔍 Description | ⚙️ Tech |
-|-------------|----------------|----------|
-| 🎯 **Typing Zombies** | A web game that trains your typing speed while fighting zombies | HTML, CSS, JS |
-| 🕹️ **Horror Game (Ursina)** | A first-person horror adventure with custom assets | Python, Ursina |
-| 📊 **Population Dashboard** | Data visualization website for demographic analytics | PHP, Chart.js |
-| 💰 **Finance Manager** | Simple money management app with charts | PHP, MySQL, Chart.js |
+### 📚 My Learning Journey
+> “Every programmer was once a beginner — and that’s exactly where I am now.”  
+
+I enjoy learning by creating small projects.  
+Some of them may not be perfect, but they remind me how far I’ve come.  
+Whether it’s a simple **web page**, a **mini game**, or a **PHP app**, each one is a step forward. 🚶‍♂️💻  
 
 ---
 
-### 📈 GitHub Overview
+### ⚙️ GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kerenmisael07&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Kerenmisael07&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kerenmisael07&bg_color=0d1117&color=00bfff&line=00bfff&point=1e90ff&area=true&hide_border=true" />
-</p>
-
 ---
 
-### 🌐 Connect with Me  
+### 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/Kerenmisael07"><img src="https://img.shields.io/badge/GitHub-Kerenmisael07-181717?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:kerenmisael@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:kerenmisael45@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Keep building. Keep learning. Keep shining.” ✨</i>
+  <i>“I’m not where I want to be yet, but I’m closer than yesterday.” 🚀</i>
 </p>
