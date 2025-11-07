@@ -1,9 +1,8 @@
 <h1 align="center">👋 Hi, I'm Keren Misael</h1>
 <h3 align="center">Informatics Student | Still Learning • Still Growing 🌱</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Informatics+Student+from+Indonesia;Learning+HTML%2C+CSS%2C+JS%2C+PHP%2C+Laravel%2C+Java%2C+Python;Not+an+expert...+but+always+curious+✨" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Informatics+Student+from+Indonesia;Learning+HTML,+CSS,+JS,+PHP,+Laravel,+Java,+Python;Still+learning+and+growing+🌱" alt="Typing animation" />
+
 
 ---
 
